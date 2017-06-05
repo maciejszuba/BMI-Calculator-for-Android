@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Oblicz Mi BMI</string>
+    <string name="give_weight">waga</string>
+    <string name="give_height">wzrost</string>
+</resources>
